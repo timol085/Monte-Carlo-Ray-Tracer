@@ -1,0 +1,31 @@
+﻿  Camera.cpp
+X:\Globalen\TNCG15\EasyBMP.hpp(136,36): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+X:\Globalen\TNCG15\EasyBMP.hpp(138,42): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+X:\Globalen\TNCG15\EasyBMP.hpp(304,49): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+X:\Globalen\TNCG15\EasyBMP.hpp(313,23): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+X:\Globalen\TNCG15\EasyBMP.hpp(314,23): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+X:\Globalen\TNCG15\EasyBMP.hpp(356,17): warning C4101: 'colorBuffer': unreferenced local variable
+X:\Globalen\TNCG15\Camera.cpp(21,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Material.cpp
+X:\Globalen\TNCG15\Material.cpp(73,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+X:\Globalen\TNCG15\Material.cpp(74,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+X:\Globalen\TNCG15\Material.cpp(75,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Objects.cpp
+X:\Globalen\TNCG15\Objects.cpp(130,82): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Ray.cpp
+  Room.cpp
+  Scene.cpp
+X:\Globalen\TNCG15\Scene.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+X:\Globalen\TNCG15\Scene.cpp(25,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating code
+X:\Globalen\TNCG15\Scene.cpp(25): warning C4756: overflow in constant arithmetic
+  6 of 580 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  test1.vcxproj -> X:\Globalen\TNCG15\Release\test1.exe
